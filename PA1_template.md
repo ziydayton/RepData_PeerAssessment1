@@ -257,7 +257,7 @@ xyplot(df5$Avg_Steps~df5$Interval|df5$Day_Type,
      main = "Average Number of Steps Taken per Each 5-minute Interval (New)",
      xlab = "5-minute Interval (Start time)",
      ylab = "Number of Steps (Average)",
-     layout=c(1,2))
+     layout = c(1,2))
 ```
 
 ![](PA1_template_files/figure-html/factor&plot-1.png)<!-- -->
